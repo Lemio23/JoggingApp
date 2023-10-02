@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="newRoute">Nowa trasa</string>
+    <string name="routeHistory">Historia tras</string>
+    <string name="favoriteRoutes">Ulubione trasy</string>
+    <string name="achievements">Osiągnięcia</string>
+    <string name="help">Pomoc</string>
+    <string name="projectInfo">Informacje o projekcie</string>
+    <string name="logIn">Rejestracja / logowanie</string>
+    <string name="logOut">Wyloguj</string>
+    <string name="menuTitle">Jogging app</string>
+
+    <string name="helpPageLabel">Pomoc</string>
+    <string name="helpPageTitle">Poradnik po aplikacji</string>
+    <string name="helpPageContent1">
+        Aplikacja pozwala na wyznaczenie trasy biegu uwzgledniając zanieczyszczenie powietrza w  pobliżu, twoję preferencję i umiejętności,
+    </string>
+    <string name="helpPageContent2">Poruszanie się po aplikacji:</string>
+    <string name="helpPageContent3">
+        -"Nowa Trasa" - pozwala na wyznaczenie nowej trasy biegu. Użytkownik wprowadza preferowaną długość, preferowane nachylenie i ilość tras do wygenerowania.
+        Aplikacja generuję trasy biorąc pod uwagę dane wprowadzone przez użytkownika i zanieczyszczenie powietrza w pobliżu.
+        Po wygenerowaniu tras użytkownik wybiera jedną z nich, aby rozpocząć bieg.
+
+        -"Historia tras" - pozwala przejrzeć, zapisać do ulubionych lub ponownie przebiec trasy ostatnio pokonane.
+
+        -"Trasy ulubione" - pozwala przejrzeć i przebiec trasy zapisane do ulubionych.
+
+        -"Osiągnięcia" - pozwala zobaczyć statystyki i osiągnięcia użytkownika.
+
+        -"Pomoc" - poradnik funkcjonalności aplikacji
+
+        -"Informacje o projekcie" - krótka informacja o projekcie i autorach
+
+        -"Rejestracja/logowanie" - pozwala zalogować się lub utworzyć nowe konto. Niektóre funkcjonalności nie są dostępne dla niezalogowanych użytkowników.
+
+        -"Wyloguj" - pozwala na wylogowanie się z aplikacji
+    </string>
+
+    <string name="infoPageLabel">Info</string>
+    <string name="infoPageTitle">Informację o projekcie</string>
+    <string name="infoPageContent">
+        Aplikacja stworzona jako projekt inżynierski.
+
+        Opiekun: Dr. Inż. Przemysław Falkowski-Gilski
+        Politechnika Gdańska
+        Katedra Systemów Geoinformatycznych
+
+        Autorzy: Piotr Szymański 184353, Jakub Kwiatkowski 184348
+
+    </string>
+</resources>
